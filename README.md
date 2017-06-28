@@ -1,0 +1,2 @@
+# hungry_post
+複数サイト運用時：1つのwordpresから複数のwordpressへ投稿データを振り分ける
